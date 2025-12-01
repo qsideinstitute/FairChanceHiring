@@ -1,0 +1,301 @@
+state,industry,total_jobs,fair_chance_jobs
+Alabama,retail,800,25
+Alabama,food service,2000,25
+Alabama,construction,2000,50
+Alabama,home health,200,4
+Alabama,manufacturing,1000,50
+Alabama,hospitality,1000,25
+Alaska,retail,100,13
+Alaska,food service,400,22
+Alaska,construction,400,15
+Alaska,home health,50,2
+Alaska,manufacturing,100,4
+Alaska,hospitality,200,8
+Arizona,retail,1000,25
+Arizona,food service,4000,50
+Arizona,construction,3000,75
+Arizona,home health,1000,13
+Arizona,manufacturing,2000,50
+Arizona,hospitality,2000,25
+Arkansas,retail,600,5
+Arkansas,food service,1000,19
+Arkansas,construction,1000,25
+Arkansas,home health,100,6
+Arkansas,manufacturing,900,22
+Arkansas,hospitality,400,12
+California,retail,9000,200
+California,food service,12000,400
+California,construction,10000,300
+California,home health,8000,75
+California,manufacturing,10000,300
+California,hospitality,9000,300
+Colorado,retail,2000,50
+Colorado,food service,3000,75
+Colorado,construction,3000,75
+Colorado,home health,1000,12
+Colorado,manufacturing,1000,25
+Colorado,hospitality,3000,50
+Connecticut,retail,1000,25
+Connecticut,food service,1000,25
+Connecticut,construction,1000,25
+Connecticut,home health,1000,8
+Connecticut,manufacturing,1000,25
+Connecticut,hospitality,800,25
+Delaware,retail,100,13
+Delaware,food service,300,11
+Delaware,construction,200,11
+Delaware,home health,75,1
+Delaware,manufacturing,200,10
+Delaware,hospitality,200,4
+Florida,retail,5000,50
+Florida,food service,10000,100
+Florida,construction,12000,200
+Florida,home health,5000,21
+Florida,manufacturing,4000,100
+Florida,hospitality,6000,75
+Georgia,retail,29000,1000
+Georgia,food service,37000,200
+Georgia,construction,7000,100
+Georgia,home health,4000,8
+Georgia,manufacturing,5000,75
+Georgia,hospitality,18000,100
+Hawaii,retail,2000,75
+Hawaii,food service,4000,50
+Hawaii,construction,700,25
+Hawaii,home health,100,2
+Hawaii,manufacturing,200,8
+Hawaii,hospitality,2000,25
+Idaho,retail,2000,75
+Idaho,food service,4000,50
+Idaho,construction,1000,50
+Idaho,home health,200,6
+Idaho,manufacturing,700,25
+Idaho,hospitality,1000,25
+Illinois,retail,26000,2000
+Illinois,food service,33000,700
+Illinois,construction,5000,75
+Illinois,home health,5000,25
+Illinois,manufacturing,7000,100
+Illinois,hospitality,16000,300
+Indiana,retail,16000,900
+Indiana,food service,22000,75
+Indiana,construction,4000,75
+Indiana,home health,2000,18
+Indiana,manufacturing,5000,100
+Indiana,hospitality,10000,25
+Iowa,retail,7000,100
+Iowa,food service,9000,25
+Iowa,construction,1000,25
+Iowa,home health,300,2
+Iowa,manufacturing,2000,25
+Iowa,hospitality,4000,25
+Kansas,retail,600,20
+Kansas,food service,2000,25
+Kansas,construction,1000,25
+Kansas,home health,200,5
+Kansas,manufacturing,1000,25
+Kansas,hospitality,1000,23
+Kentucky,retail,700,20
+Kentucky,food service,2000,50
+Kentucky,construction,1000,50
+Kentucky,home health,200,3
+Kentucky,manufacturing,1000,25
+Kentucky,hospitality,1000,25
+Louisiana,retail,12000,300
+Louisiana,food service,14000,75
+Louisiana,construction,3000,50
+Louisiana,home health,300,7
+Louisiana,manufacturing,2000,25
+Louisiana,hospitality,7000,50
+Maine,retail,3000,75
+Maine,food service,3000,25
+Maine,construction,500,25
+Maine,home health,200,13
+Maine,manufacturing,500,25
+Maine,hospitality,1000,15
+Maryland,retail,13000,800
+Maryland,food service,14000,75
+Maryland,construction,4000,50
+Maryland,home health,1000,6
+Maryland,manufacturing,2000,25
+Maryland,hospitality,8000,50
+Massachusetts,retail,15000,1000
+Massachusetts,food service,16000,75
+Massachusetts,construction,4000,50
+Massachusetts,home health,3000,10
+Massachusetts,manufacturing,4000,75
+Massachusetts,hospitality,8000,50
+Michigan,retail,22000,1000
+Michigan,food service,28000,100
+Michigan,construction,4000,100
+Michigan,home health,4000,11
+Michigan,manufacturing,7000,100
+Michigan,hospitality,13000,75
+Minnesota,retail,12000,400
+Minnesota,food service,13000,75
+Minnesota,construction,3000,50
+Minnesota,home health,2000,14
+Minnesota,manufacturing,4000,75
+Minnesota,hospitality,6000,25
+Mississippi,retail,200,5
+Mississippi,food service,1000,25
+Mississippi,construction,500,25
+Mississippi,home health,100,2
+Mississippi,manufacturing,400,25
+Mississippi,hospitality,500,17
+Missouri,retail,2000,25
+Missouri,food service,4000,75
+Missouri,construction,2000,100
+Missouri,home health,1000,13
+Missouri,manufacturing,2000,50
+Missouri,hospitality,2000,25
+Montana,retail,300,25
+Montana,food service,1000,50
+Montana,construction,500,25
+Montana,home health,100,2
+Montana,manufacturing,200,19
+Montana,hospitality,500,25
+Nebraska,retail,400,25
+Nebraska,food service,1000,25
+Nebraska,construction,1000,25
+Nebraska,home health,200,5
+Nebraska,manufacturing,900,13
+Nebraska,hospitality,700,13
+Nevada,retail,400,19
+Nevada,food service,1000,25
+Nevada,construction,1000,25
+Nevada,home health,200,3
+Nevada,manufacturing,500,16
+Nevada,hospitality,1000,17
+New Hampshire,retail,800,25
+New Hampshire,food service,2000,25
+New Hampshire,construction,700,25
+New Hampshire,home health,100,7
+New Hampshire,manufacturing,1000,25
+New Hampshire,hospitality,700,15
+New Jersey,retail,18000,1000
+New Jersey,food service,17000,75
+New Jersey,construction,3000,25
+New Jersey,home health,4000,10
+New Jersey,manufacturing,3000,25
+New Jersey,hospitality,8000,50
+New Mexico,retail,5000,100
+New Mexico,food service,5000,25
+New Mexico,construction,1000,25
+New Mexico,home health,500,1
+New Mexico,manufacturing,600,11
+New Mexico,hospitality,2000,10
+New York,retail,30000,2000
+New York,food service,26000,600
+New York,construction,6000,100
+New York,home health,8000,25
+New York,manufacturing,5000,100
+New York,hospitality,14000,400
+North Carolina,retail,29000,2000
+North Carolina,food service,36000,300
+North Carolina,construction,9000,100
+North Carolina,home health,3000,22
+North Carolina,manufacturing,6000,100
+North Carolina,hospitality,17000,75
+North Dakota,retail,200,17
+North Dakota,food service,600,22
+North Dakota,construction,900,25
+North Dakota,home health,75,1
+North Dakota,manufacturing,300,13
+North Dakota,hospitality,300,10
+Ohio,retail,4000,50
+Ohio,food service,10000,100
+Ohio,construction,5000,100
+Ohio,home health,3000,24
+Ohio,manufacturing,8000,100
+Ohio,hospitality,5000,75
+Oklahoma,retail,500,18
+Oklahoma,food service,2000,25
+Oklahoma,construction,1000,25
+Oklahoma,home health,300,1
+Oklahoma,manufacturing,1000,25
+Oklahoma,hospitality,1000,24
+Oregon,retail,1000,25
+Oregon,food service,2000,25
+Oregon,construction,1000,50
+Oregon,home health,500,6
+Oregon,manufacturing,1000,25
+Oregon,hospitality,1000,25
+Pennsylvania,retail,5000,75
+Pennsylvania,food service,9000,200
+Pennsylvania,construction,6000,100
+Pennsylvania,home health,8000,75
+Pennsylvania,manufacturing,6000,100
+Pennsylvania,hospitality,5000,75
+Rhode Island,retail,100,16
+Rhode Island,food service,500,11
+Rhode Island,construction,300,15
+Rhode Island,home health,100,3
+Rhode Island,manufacturing,300,16
+Rhode Island,hospitality,300,1
+South Carolina,retail,1000,25
+South Carolina,food service,4000,50
+South Carolina,construction,3000,50
+South Carolina,home health,900,21
+South Carolina,manufacturing,2000,25
+South Carolina,hospitality,2000,25
+South Dakota,retail,200,13
+South Dakota,food service,900,22
+South Dakota,construction,900,25
+South Dakota,home health,100,2
+South Dakota,manufacturing,400,22
+South Dakota,hospitality,400,15
+Tennessee,retail,2000,25
+Tennessee,food service,5000,75
+Tennessee,construction,4000,100
+Tennessee,home health,1000,12
+Tennessee,manufacturing,2000,50
+Tennessee,hospitality,3000,50
+Texas,retail,7000,100
+Texas,food service,17000,200
+Texas,construction,14000,200
+Texas,home health,7000,25
+Texas,manufacturing,8000,100
+Texas,hospitality,10000,100
+Utah,retail,500,17
+Utah,food service,1000,17
+Utah,construction,1000,75
+Utah,home health,200,1
+Utah,manufacturing,1000,25
+Utah,hospitality,900,12
+Vermont,retail,300,20
+Vermont,food service,500,25
+Vermont,construction,300,25
+Vermont,home health,100,1
+Vermont,manufacturing,300,12
+Vermont,hospitality,300,10
+Virginia,retail,2000,50
+Virginia,food service,6000,100
+Virginia,construction,6000,100
+Virginia,home health,2000,25
+Virginia,manufacturing,2000,25
+Virginia,hospitality,4000,59
+Washington,retail,2000,50
+Washington,food service,3000,50
+Washington,construction,3000,100
+Washington,home health,1000,7
+Washington,manufacturing,2000,100
+Washington,hospitality,1000,25
+West Virginia,retail,200,11
+West Virginia,food service,1000,25
+West Virginia,construction,400,25
+West Virginia,home health,100,0
+West Virginia,manufacturing,300,16
+West Virginia,hospitality,400,18
+Wisconsin,retail,2000,50
+Wisconsin,food service,4000,100
+Wisconsin,construction,3000,75
+Wisconsin,home health,900,17
+Wisconsin,manufacturing,6000,100
+Wisconsin,hospitality,2000,50
+Wyoming,retail,100,8
+Wyoming,food service,300,14
+Wyoming,construction,400,25
+Wyoming,home health,50,1
+Wyoming,manufacturing,200,16
+Wyoming,hospitality,200,9

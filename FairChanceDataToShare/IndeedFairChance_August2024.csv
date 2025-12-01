@@ -1,0 +1,101 @@
+state,industry,total_jobs,fair_chance_jobs
+Alabama,retail,700,20
+Alabama,food service,1000,50
+Alaska,retail,200,6
+Alaska,food service,400,25
+Arizona,retail,1000,25
+Arizona,food service,2000,50
+Arkansas,retail,600,25
+Arkansas,food service,700,25
+California,retail,5000,200
+California,food service,9000,300
+Colorado,retail,2000,50
+Colorado,food service,5000,75
+Connecticut,retail,1000,20
+Connecticut,food service,2000,50
+Delaware,retail,300,12
+Delaware,food service,600,13
+Florida,retail,5000,75
+Florida,food service,8000,100
+Georgia,retail,2000,50
+Georgia,food service,4000,100
+Hawaii,retail,1000,23
+Hawaii,food service,2000,50
+Idaho,retail,600,25
+Idaho,food service,1000,50
+Illinois,retail,3000,50
+Illinois,food service,7000,100
+Indiana,retail,2000,25
+Indiana,food service,4000,50
+Iowa,retail,1000,25
+Iowa,food service,1000,50
+Kansas,retail,500,16
+Kansas,food service,1000,50
+Kentucky,retail,500,25
+Kentucky,food service,1000,50
+Louisiana,retail,500,8
+Louisiana,food service,1000,25
+Maine,retail,400,25
+Maine,food service,900,50
+Maryland,retail,900,25
+Maryland,food service,2000,25
+Massachusetts,retail,3000,50
+Massachusetts,food service,6000,75
+Michigan,retail,3000,50
+Michigan,food service,9000,100
+Minnesota,retail,2000,50
+Minnesota,food service,4000,75
+Mississippi,retail,300,7
+Mississippi,food service,1000,18
+Missouri,retail,2000,25
+Missouri,food service,4000,75
+Montana,retail,500,25
+Montana,food service,1000,50
+Nebraska,retail,500,25
+Nebraska,food service,1000,25
+Nevada,retail,500,16
+Nevada,food service,1000,25
+New Hampshire,retail,600,20
+New Hampshire,food service,1000,25
+New Jersey,retail,1000,25
+New Jersey,food service,3000,50
+New Mexico,retail,300,13
+New Mexico,food service,700,19
+New York,retail,3000,75
+New York,food service,6000,200
+North Carolina,retail,2000,25
+North Carolina,food service,5000,100
+North Dakota,retail,300,18
+North Dakota,food service,600,25
+Ohio,retail,2000,50
+Ohio,food service,5000,200
+Oklahoma,retail,800,21
+Oklahoma,food service,2000,25
+Oregon,retail,1000,25
+Oregon,food service,2000,50
+Pennsylvania,retail,5000,75
+Pennsylvania,food service,10000,200
+Rhode Island,retail,300,9
+Rhode Island,food service,1000,24
+South Carolina,retail,1000,25
+South Carolina,food service,2000,50
+South Dakota,retail,300,18
+South Dakota,food service,700,17
+Tennessee,retail,1000,25
+Tennessee,food service,3000,100
+Texas,retail,4000,75
+Texas,food service,9000,200
+Utah,retail,500,12
+Utah,food service,1000,23
+Vermont,retail,300,23
+Vermont,food service,600,25
+Virginia,retail,1000,50
+Virginia,food service,4000,100
+Washington,retail,1000,50
+Washington,food service,2000,75
+West Virginia,retail,200,15
+West Virginia,food service,700,25
+Wisconsin,retail,1000,75
+Wisconsin,food service,3000,100
+Wyoming,retail,100,9
+Wyoming,food service,400,17
